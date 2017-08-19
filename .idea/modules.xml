@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MinecraftMod-forge-1.12-14.21.1.2387-mdk.iml" filepath="$PROJECT_DIR$/.idea/modules/MinecraftMod-forge-1.12-14.21.1.2387-mdk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/forge-1.12-14.21.1.2387-mdk.iml" filepath="$PROJECT_DIR$/forge-1.12-14.21.1.2387-mdk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge-1.12-14.21.1.2387-mdk_api.iml" filepath="$PROJECT_DIR$/.idea/modules/forge-1.12-14.21.1.2387-mdk_api.iml" group="forge-1.12-14.21.1.2387-mdk" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge-1.12-14.21.1.2387-mdk_main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge-1.12-14.21.1.2387-mdk_main.iml" group="forge-1.12-14.21.1.2387-mdk" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge-1.12-14.21.1.2387-mdk_test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge-1.12-14.21.1.2387-mdk_test.iml" group="forge-1.12-14.21.1.2387-mdk" />
+      <module fileurl="file://$PROJECT_DIR$/Fruit-MusicMod.iml" filepath="$PROJECT_DIR$/Fruit-MusicMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fruit-MusicMod_api.iml" filepath="$PROJECT_DIR$/.idea/modules/Fruit-MusicMod_api.iml" group="Fruit-MusicMod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fruit-MusicMod_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Fruit-MusicMod_main.iml" group="Fruit-MusicMod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fruit-MusicMod_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Fruit-MusicMod_test.iml" group="Fruit-MusicMod" />
     </modules>
   </component>
 </project>
