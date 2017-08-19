@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="forge-1.12-14.21.1.2387-mdk_api" target="1.8" />
+      <module name="forge-1.12-14.21.1.2387-mdk_main" target="1.8" />
+      <module name="forge-1.12-14.21.1.2387-mdk_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
