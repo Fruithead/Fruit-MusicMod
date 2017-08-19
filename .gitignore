@@ -1,6 +1,14 @@
 
 # Created by https://www.gitignore.io/api/osx,java,linux,gradle,windows,eclipse,intellij
 
+### Manual Stuff by Fruit ###
+
+build/
+run/
+out/
+
+
+
 ### Eclipse ###
 
 .metadata
